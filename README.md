@@ -11,7 +11,7 @@
 
 **Wikipedia Data:** https://en.m.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications
 
-**Documentation:**
+**Documentation:** file:///Users/zackdalley/Desktop/fall2024/STAT386/final_project/stat386_movie_project/docs/_build/html/index.html
 
 **Streamlit App:** https://appapppy-jbmpzi8ccfhms2lmxlu9py.streamlit.app/
 
