@@ -1,7 +1,7 @@
 # **STAT 386 Final Project: Marvel Movie Data Analysis**
 ### **Colby Eastmond, Quinn Wright, Zack Dalley**
 
-## Package
+## Movie Data Cleaning Package
 
 **Install Package via:** pip install git+https://github.com/zdalley/stat386_movie_project
 
@@ -19,4 +19,6 @@
 - **movie_analysis.ipynb:** Jupyter notebook where Marvel movie data is scraped from Rotten Tomatoes and Wikipedia, cleaned, visualized, and analyzed.
 - **movie_final.csv:** A csv file of our final dataset, used to populate the data in our streamlit app.
 - **streamlitapp.py:** The code behind our streamlit app.
-- **requirements.txt:** Package requirements for our streamlit app to work propery.
+- **requirements.txt:** Package requirements for our streamlit app and package to work properly.
+- **movie_package:** Folder containing the custom functions in the movie package available for install
+- **setup.py:** Set up for the movie package
