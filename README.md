@@ -4,10 +4,11 @@
 ## Links
 
 **Rotten Tomatoes Data:** https://www.rottentomatoes.com/franchise/marvel_cinematic_universe
+
 **Wikipedia Data:** https://en.m.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications
 
-
 **Documentation:**
+
 **Streamlit App:** https://appapppy-jbmpzi8ccfhms2lmxlu9py.streamlit.app/
 
 ## **Repository Contents Description:**
